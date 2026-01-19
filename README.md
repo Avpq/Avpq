@@ -2,7 +2,7 @@
 
 ### ⚙️ Silicon Orchestrator
 
-He who owns **0|1**, owns the world! Understanding how code and machine interact drives me. 
+He who owns **0|1**, owns the world!   
 It isn't just about writing working code; it's about understanding the fundamental principles that govern computation, from statistical models down to hardware execution.
 
 > True mastery in software engineering requires understanding systems at multiple levels of abstraction simultaneously. 
