@@ -1,8 +1,9 @@
-## Hi, I'm Avezz 👋
+## Hi, I'm Avez 
 
 ### ⚙️ Silicon Orchestrator
 
-I believe the world runs on **0|1**—and I specialize in understanding what happens between those states. While many developers build features at the application layer, I dive deep into systems to understand how code and machine interact. This isn't just about writing working code; it's about understanding the fundamental principles that govern computation, from statistical models down to hardware execution.
+He ho owns **0|1**, owns the world! Understanding how code and machine interact drives me. 
+It isn't just about writing working code; it's about understanding the fundamental principles that govern computation, from statistical models down to hardware execution.
 
 > True mastery in software engineering requires understanding systems at multiple levels of abstraction simultaneously. 
 
