@@ -22,10 +22,9 @@ It isn't just about writing working code; it's about understanding the fundament
 
 
 ## 📈 GitHub Stats
+[![Avezz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avpq&hide=contribs&show=discussions_answered,prs_merged_percentage,&theme=catppuccin_latte&show_icons=true&hide_title=true&rank_icon=percentile&include_all_commits=true&text_bold=false&ring_color=ed9f2f&number_format=long)](https://github.com/anuraghazra/github-readme-stats)
 
-![Avezz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Avpq&show_icons=true&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Avpq&layout=compact&theme=dark&hide_border=true)
 
 ## 🤝 Connect With Me
 
