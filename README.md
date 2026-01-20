@@ -34,5 +34,5 @@ https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#:~:text=Gi
 ## 🤝 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/avi-sahai-911567255
-- ✖️ X: https://x.com/JIY_AVI
+- 𝕏 X: https://x.com/JIY_AVI
 - 📧 Email: avisahai96@gmail.com
