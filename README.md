@@ -26,6 +26,11 @@ It isn't just about writing working code; it's about understanding the fundament
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avpq&hide_title=true&layout=compact&langs_count=20&size_weight=0.5&count_weight=0.5)](https://github.com/Avpq/github-readme-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Avpq&theme=catppuccin_latte)](https://git.io/streak-stats)
+[![Avez's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Avpq&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Avpq&theme=flat&column=7)](https://github.com/Avpq/github-profile-trophy)
+
+
 
 <!--
 GitHub Extra Pins, allows to get extra pins ie >6 on your profile 
