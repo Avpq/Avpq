@@ -22,9 +22,9 @@ It isn't just about writing working code; it's about understanding the fundament
 
 
 ## 📈 GitHub Stats
-[![Avezz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avpq&hide=contribs&show=discussions_answered,prs_merged_percentage,&theme=catppuccin_latte&show_icons=true&hide_title=true&rank_icon=percentile&include_all_commits=true&text_bold=false&ring_color=ed9f2f&number_format=long)]
+![Avezz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avpq&hide=contribs&show=discussions_answered,prs_merged_percentage,&theme=catppuccin_latte&show_icons=true&hide_title=true&rank_icon=percentile&include_all_commits=true&text_bold=false&ring_color=ed9f2f&number_format=long)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avpq&hide_title=true&layout=compact&langs_count=20&size_weight=0.5&count_weight=0.5)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avpq&hide_title=true&layout=compact&langs_count=20&size_weight=0.5&count_weight=0.5)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Avpq&theme=flat&column=7)](https://github.com/Avpq/github-profile-trophy)
