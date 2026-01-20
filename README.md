@@ -26,13 +26,13 @@ It isn't just about writing working code; it's about understanding the fundament
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avpq&hide_title=true&layout=compact&langs_count=20&size_weight=0.5&count_weight=0.5)](https://github.com/Avpq/github-readme-stats)
 
+
 <!--
 GitHub Extra Pins, allows to get extra pins ie >6 on your profile 
 https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#:~:text=GitHub%20Extra%20Pins,-GitHub%20extra%20pins
+
+GUIDE ->
+https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-extra-pins
+Repo Card, Gist Card, and WakaTime Card were not added by me, could use them if neede
+
 -->
-
-## 🤝 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/avi-sahai-911567255
-- 𝕏 X: https://x.com/JIY_AVI
-- 📧 Email: avisahai96@gmail.com
