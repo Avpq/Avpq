@@ -24,7 +24,12 @@ It isn't just about writing working code; it's about understanding the fundament
 ## 📈 GitHub Stats
 [![Avezz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avpq&hide=contribs&show=discussions_answered,prs_merged_percentage,&theme=catppuccin_latte&show_icons=true&hide_title=true&rank_icon=percentile&include_all_commits=true&text_bold=false&ring_color=ed9f2f&number_format=long)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avpq&hide_title=true&layout=compact&langs_count=20&size_weight=0.5&count_weight=0.5)](https://github.com/Avpq/github-readme-stats)
 
+<!--
+GitHub Extra Pins, allows to get extra pins ie >6 on your profile 
+https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#:~:text=GitHub%20Extra%20Pins,-GitHub%20extra%20pins
+-->
 
 ## 🤝 Connect With Me
 
