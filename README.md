@@ -11,6 +11,7 @@ It isn't just about writing working code; it's about understanding the fundament
 ## 🛠️ Tech Stack
 <!-- 
 https://github.com/Ileriayo/markdown-badges, https://shields.io/badges
+https://github.com/marwin1991/profile-technology-icons
 https://github.com/tandpfun/skill-icons#readme
 https://renevanderschueren.com/language-icon-widget-pages/#/
 https://github.com/irfaan008/simple-skill-icons?tab=readme-ov-file
